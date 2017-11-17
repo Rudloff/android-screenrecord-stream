@@ -1,6 +1,6 @@
 {
   "name": "android-screenrecord-stream",
-  "description": " Stream Android screen to a Linux PC via USB",
+  "description": "Stream Android screen to a Linux PC via USB",
   "version": "0.1.0",
   "author": "Pierre Rudloff",
   "bin": {
