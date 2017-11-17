@@ -1,0 +1,26 @@
+{
+  "name": "android-screenrecord-stream",
+  "description": " Stream Android screen to a Linux PC via USB",
+  "version": "0.1.0",
+  "author": "Pierre Rudloff",
+  "bin": {
+    "android-screenrecord-stream": "stream.sh"
+  },
+  "bugs": "https://github.com/Rudloff/android-screenrecord-stream/issues",
+  "devDependencies": {
+    "fixpack": "^2.3.1"
+  },
+  "homepage": "https://github.com/Rudloff/android-screenrecord-stream",
+  "keywords": [
+    "Android",
+    "USB",
+    "adb",
+    "stream"
+  ],
+  "license": "GPL-3.0",
+  "main": "stream.sh",
+  "repository": "https://github.com/Rudloff/android-screenrecord-stream.git",
+  "scripts": {
+    "start": "stream.sh"
+  }
+}
